@@ -6,8 +6,6 @@ In operations research, harmony search is a phenomenon-mimicking metaheuristic i
 
 # Installation
 
-[ **pip install ensembles** ]
-
 *Dependecies*
 
 * functools.
