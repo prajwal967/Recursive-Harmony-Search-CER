@@ -4,9 +4,10 @@ Harmony Search
 -----------------------------------------------
 In operations research, harmony search is a phenomenon-mimicking metaheuristic introduced in 2001 by Zong Woo Geem, Joong Hoon Kim, and G. V. Loganathan.[1] Harmony search is inspired by the improvisation process of jazz musicians.
 
-# Installation
+# Paper
+[Link to paper](https://github.com/prajwal967/Recursive-Harmony-Search-CER/blob/master/Recursive_Harmony_Search_Based_Classifier_Ensemble_Reduction_ICICCS.pdf).
 
-[ **pip install ensembles** ]
+# Installation
 
 *Dependecies*
 
